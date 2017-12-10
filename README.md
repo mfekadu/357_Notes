@@ -37,13 +37,8 @@ notes &amp; practice for CSC 357
 
 
 ## quick outline of Chapter 1 - "basic C stuff"
-control flow : if while for break continue
-Strings and string functions
-Logic operators (&&, ||, !). Use of int for logic.
-Text I/O including printf, scanf, and EOF testing
-
 * 1.1 : #include <stdio.h> \/\*newline\*\/ int main() { printf("hello, world"); }
-  - [ ] exercise 1.1 & 1.2
+  ```exercise 1.1 & 1.2```
 * 1.2 : variable types .. int, float, char, short, long, double .. declaration .. printf .. format specifiers
   - [ ] exercise 1.3 & 1.4
 * 1.3 : for loop
