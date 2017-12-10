@@ -2,19 +2,26 @@
 notes &amp; practice for CSC 357
 
 ### goals
-:white_check_mark: get books
+- [x] get books
 
 #### top priority
-- :white_medium_square: **read** [357_C_Bible.pdf](https://github.com/mfekadu/357_Notes/blob/master/textbooks/357_C_Bible.pdf)
+- [ ] go back to 225 and **write** _detailed_ comments & tests for : 
+  - [ ] mygrep project
 
-  - :white_medium_square: _Preface_
+  - [ ] recursion project
+
+  - [ ] instruction service routine project  
+
+  - [ ] \(optional) tiledriver project
+
+  - [ ] \(optional) stack project
   
-  - :white_medium_square: _Preface to the first edition_
+- [ ] **read** [357_C_Bible.pdf](https://github.com/mfekadu/357_Notes/blob/master/textbooks/357_C_Bible.pdf)
+
+  - [ ] _Preface_
+  - [ ] _Preface to the first edition_
+  - [ ] _Chapter 1 - A Tutorial Introduction_
   
-  - :white_medium_square: _Chapter 1 - A Tutorial Introduction_
+- [ ] **read** [357_Unix.pdf](https://github.com/mfekadu/357_Notes/blob/master/textbooks/357_Unix.pdf)
 
-:white_medium_square: read [357_Unix.pdf](https://github.com/mfekadu/357_Notes/blob/master/textbooks/357_Unix.pdf)
-
-:white_medium_square: _Chapter 1 - A Tutorial Introduction_
-
-:white_medium_square: _Chapter 1 - A Tutorial Introduction_
+  - [ ] _Chapter 1 - UNIX System Overview_
