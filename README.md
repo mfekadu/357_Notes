@@ -19,11 +19,11 @@ notes &amp; practice for CSC 357
   
 - [ ] **read** [357_C_Bible.pdf](https://github.com/mfekadu/357_Notes/blob/master/textbooks/357_C_Bible.pdf)
 
-  - [x] _Preface_ (todo: add link to notes)
+  - [x] [_Preface_](https://github.com/mfekadu/357_Notes/blob/master/C_notes_0_preface.png)
 
-  - [x] _Preface to the first edition_ (todo: add link to notes)
+  - [x] [_Preface to the first edition_](https://github.com/mfekadu/357_Notes/blob/master/C_notes_0_preface.png)
   
-  - [x] _Introduction_ (todo: add link to notes)
+  - [x] [_Introduction_](https://github.com/mfekadu/357_Notes/blob/master/C_notes_1_intro.png)
 
   - [ ] _Chapter 1 - A Tutorial Introduction_
   
@@ -32,7 +32,7 @@ notes &amp; practice for CSC 357
   - [ ] _Chapter 1 - UNIX System Overview_
 
 ### Remember to practice vim!
-* practice while running example code from 357_C_Bible.pdf
+* practice while running example code from [357_C_Bible.pdf](https://github.com/mfekadu/357_Notes/blob/master/textbooks/357_C_Bible.pdf)
 * run the code on the CSL servers
 
 #### that should be enough for 1 - 2 weeks of preparation. Then Merry Christmas :santa: :christmas_tree:
