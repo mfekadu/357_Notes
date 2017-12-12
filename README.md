@@ -19,11 +19,11 @@ notes &amp; practice for CSC 357
   
 - [ ] **read** [357_C_Bible.pdf](https://github.com/mfekadu/357_Notes/blob/master/textbooks/357_C_Bible.pdf)
 
-  - [x] [_Preface_](https://github.com/mfekadu/357_Notes/blob/master/C_notes_0_preface.png)
+  - [x] [_Preface_](https://github.com/mfekadu/357_Notes/blob/master/paper_notes/C_notes_0_preface.png)
 
-  - [x] [_Preface to the first edition_](https://github.com/mfekadu/357_Notes/blob/master/C_notes_0_preface.png)
+  - [x] [_Preface to the first edition_](https://github.com/mfekadu/357_Notes/blob/master/paper_notes/C_notes_0_preface.png)
   
-  - [x] [_Introduction_](https://github.com/mfekadu/357_Notes/blob/master/C_notes_1_intro.png)
+  - [x] [_Introduction_](https://github.com/mfekadu/357_Notes/blob/master/paper_notes/C_notes_1_intro.png)
 
   - [ ] _Chapter 1 - A Tutorial Introduction_
   
