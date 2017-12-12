@@ -2,7 +2,7 @@
 notes &amp; practice for CSC 357
 
 ## goals
-- [x] get books [\(also got physical copies\)](https://github.com/mfekadu/357_Notes/blob/master/textbooks)
+- [x] get books [\(Unix book is heavy :muscle:\)](https://github.com/mfekadu/357_Notes/blob/master/textbooks)
 
 ### top priority
 - [ ] go back to 225 and **write** _detailed_ comments & tests for : 
