@@ -13,7 +13,7 @@ notes &amp; practice for CSC 357
 
   - [ ] instruction service routine project  
 
-  - [ ] \(optional) tiledriver project
+  - [x] \(optional) tiledriver project (todo: include screenshots of successful valgrind)
 
   - [ ] \(optional) stack project
   
