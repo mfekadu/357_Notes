@@ -9,7 +9,7 @@ notes &amp; practice for CSC 357
 
   - [ ] mygrep project
 
-  - [ ] recursion project
+  - [x] recursion project [(private)](https://github.com/mfekadu/CSC_225_Projects/tree/master/C_Programs/recursion)
 
   - [ ] instruction service routine project  
 
