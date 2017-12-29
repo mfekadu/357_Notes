@@ -13,7 +13,7 @@ notes &amp; practice for CSC 357
 
   - [ ] instruction service routine project  
 
-  - [x] \(optional) tiledriver project [(todo: include screenshots of successful valgrind)... done, private repo](https://github.com/mfekadu/CSC_225_Projects/blob/master/C_Programs/tiledriver/README.md)
+  - [x] \(optional) tiledriver project [(private)](https://github.com/mfekadu/CSC_225_Projects/blob/master/C_Programs/tiledriver/README.md)
 
   - [ ] \(optional) stack project
   
@@ -43,16 +43,16 @@ notes &amp; practice for CSC 357
   - [ ] **exercise 1.1 & 1.2**
 - [x] [1.2](/paper_notes/C_notes_3_1.2.png) : variable types .. int, float, char, short, long, double .. declaration .. printf .. format specifiers
   - [ ] **exercise 1.3 & 1.4**
-- [ ] 1.3 : for loop
+- [x] [1.3](/paper_notes/C_notes_4_1.3.png) : for loop
   - [ ] **exercise 1.5**
-- [ ] 1.4 : constants ... #define _name_ _replacement text_
-- [ ] 1.5 : text file I/O  .. text stream .. getchar & putchar .. getchar reads _next input character_
-  - [ ] 1.5.1 : file copying
+- [x] [1.4](/paper_notes/C_notes_5_1.4.png) : constants ... #define _name_ _replacement text_
+- [x] [1.5](/paper_notes/C_notes_6_1.5.0-2.png) : text file I/O  .. text stream .. getchar & putchar .. getchar reads _next input character_
+  - [x] [1.5.1](/paper_notes/C_notes_6_1.5.0-2.png) : file copying
     - [ ] **exercise 1.6 & 1.7**
-  - [ ] 1.5.2 : character copying
-  - [ ] 1.5.3 : line counting
+  - [x] [1.5.2](/paper_notes/C_notes_6_1.5.0-2.png) : character copying
+  - [x] [1.5.3](/paper_notes/C_notes_6_1.5.3-4.png) : line counting
     - [ ] **exercise 1.8 & 1.9 & 1.10**
-  - [ ] 1.5.4 : word counting
+  - [x] [1.5.4](/paper_notes/C_notes_6_1.5.3-4.png) : word counting
     - [ ] **exercise 1.11 & 1.12**
 - [ ] 1.6 : arrays .. index .. 
   - [ ] **exercise 1.13 & 1.14**
