@@ -2,7 +2,7 @@
 notes &amp; practice for CSC 357
 
 ## goals
-- [x] get books [\(Unix book is heavy :muscle:\)](https://github.com/mfekadu/357_Notes/blob/master/textbooks)
+- [x] get books [\(Unix book is heavy :muscle:\)](/textbooks)
 
 ### top priority
 - [ ] go back to 225 and **write** _detailed_ comments & tests for : 
@@ -17,31 +17,31 @@ notes &amp; practice for CSC 357
 
   - [ ] \(optional) stack project
   
-- [ ] **read** [357_C_Bible.pdf](https://github.com/mfekadu/357_Notes/blob/master/textbooks/357_C_Bible.pdf)
+- [ ] **read** [357_C_Bible.pdf](/textbooks/357_C_Bible.pdf)
 
-  - [x] [_Preface_](https://github.com/mfekadu/357_Notes/blob/master/paper_notes/C_notes_0_preface.png)
+  - [x] [_Preface_](/paper_notes/C_notes_0_preface.png)
 
-  - [x] [_Preface to the first edition_](https://github.com/mfekadu/357_Notes/blob/master/paper_notes/C_notes_0_preface.png)
+  - [x] [_Preface to the first edition_](/paper_notes/C_notes_0_preface.png)
   
-  - [x] [_Introduction_](https://github.com/mfekadu/357_Notes/blob/master/paper_notes/C_notes_1_intro.png)
+  - [x] [_Introduction_](/paper_notes/C_notes_1_intro.png)
 
   - [ ] _Chapter 1 - A Tutorial Introduction_
   
-- [ ] **read** [357_Unix.pdf](https://github.com/mfekadu/357_Notes/blob/master/textbooks/357_Unix.pdf)
+- [ ] **read** [357_Unix.pdf](/textbooks/357_Unix.pdf)
 
   - [ ] _Chapter 1 - UNIX System Overview_
 
 ### Remember to practice vim!
-* practice while running example code from [357_C_Bible.pdf](https://github.com/mfekadu/357_Notes/blob/master/textbooks/357_C_Bible.pdf)
+* practice while running example code from [357_C_Bible.pdf](/textbooks/357_C_Bible.pdf)
 * run the code on the CSL servers
 
 #### that should be enough for 1 - 2 weeks of preparation. Then Merry Christmas :santa: :christmas_tree:
 
 
 ## quick outline of Chapter 1 - "basic C stuff"
-- [x] [1.1](https://github.com/mfekadu/357_Notes/blob/master/paper_notes/C_notes_2_1.1.png) : #include <stdio.h> \/\*newline\*\/ int main() { printf("hello, world"); }
+- [x] [1.1](/paper_notes/C_notes_2_1.1.png) : #include <stdio.h> \/\*newline\*\/ int main() { printf("hello, world"); }
   - [ ] **exercise 1.1 & 1.2**
-- [x] [1.2](https://github.com/mfekadu/357_Notes/blob/master/paper_notes/C_notes_3_1.2.png) : variable types .. int, float, char, short, long, double .. declaration .. printf .. format specifiers
+- [x] [1.2](/paper_notes/C_notes_3_1.2.png) : variable types .. int, float, char, short, long, double .. declaration .. printf .. format specifiers
   - [ ] **exercise 1.3 & 1.4**
 - [ ] 1.3 : for loop
   - [ ] **exercise 1.5**
